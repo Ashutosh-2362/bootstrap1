@@ -1,0 +1,22 @@
+.flexbox{
+    display:flex;
+    
+    flex-wrap: wrap;
+    
+}
+
+.flexcol{
+   
+    gap:15px;
+    flex-basis:20%;
+    flex:1;
+}
+
+.flexcol1{
+    flex-basis: 25%;
+}
+
+.buttons{
+    margin-top:auto;
+}
+
