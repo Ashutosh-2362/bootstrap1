@@ -20,3 +20,9 @@
     margin-top:auto;
 }
 
+@media(max-width:576px){
+    .flexbox{
+        display:flex;
+        flex-direction: column;
+    }
+}
